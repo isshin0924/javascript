@@ -9,4 +9,4 @@
 		document.write('hello,world!');
 	</script>
 </body>
-</html>
+</html> 
